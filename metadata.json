@@ -1,0 +1,6 @@
+{
+  "name": "Advance Economic - Automatic Meter Reading",
+  "description": "Phần mềm thu thập dữ liệu công tơ tự động - Advance Economic Plus",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
